@@ -1,4 +1,4 @@
-# Resume ATS Auditor 🚀
+<img width="1919" height="997" alt="Screenshot 2026-06-10 125243" src="https://github.com/user-attachments/assets/8b3bff9d-38d3-4536-b92f-134cb02d66f1" /># Resume ATS Auditor 🚀
 
 A privacy-focused, full-stack **Resume ATS Auditor and AI-Language Detector**. This tool helps candidates identify AI-written clichés, seniority inflation, and key missing terms in their resumes, providing real-time ATS optimization and line-by-line bullet rewrites.
 
@@ -88,8 +88,14 @@ A privacy-focused, full-stack **Resume ATS Auditor and AI-Language Detector**. T
 
 * **Frontend Dev Server**: Run `npm run dev` in `frontend/` (default URL: [http://localhost:5173](http://localhost:5173))
 * **Backend Dev Server**: Run `npm run dev` in `backend/` (default URL: [http://localhost:5000](http://localhost:5000))
+  
+<img width="1919" height="997" alt="Screenshot 2026-06-10 125243" src="https://github.com/user-attachments/assets/d5c245a8-702c-46bd-9ffd-8152abf1bba9" />
+<img width="1919" height="971" alt="Screenshot 2026-06-10 125127" src="https://github.com/user-attachments/assets/53af1613-cd0f-40ea-8a6d-f642fdd650d6" />
+<img width="1919" height="962" alt="Screenshot 2026-06-10 124741" src="https://github.com/user-attachments/assets/c9514a75-4472-4860-b53a-633b83268e33" />
+<img width="1917" height="965" alt="Screenshot 2026-06-10 125110" src="https://github.com/user-attachments/assets/59cb265d-5a5e-40ab-88b7-371f65d0be8e" />
+report link 
+[Uploading Umang-Pandey-Data-Analyst_ATS_Audit_Report (1).pdf…]()
 
----
 
 ## 🛡️ Security & Privacy Architecture
 
